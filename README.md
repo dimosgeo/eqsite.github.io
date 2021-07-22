@@ -1,1 +1,1 @@
-hi
+https://dimosgeo.github.io/eqsite/
